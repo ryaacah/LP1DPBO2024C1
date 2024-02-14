@@ -36,13 +36,11 @@ Program saya mempunyai 1 Primary jey, Yaitu ID, Oleh karena itu
 ![CPP program](Screenshot2024-02-08005859.png)
 
 ### Dokumentasi Java
-![Java program](Java/ss.png)
+![Java program](java/ss_java.png)
 
 ### Dokumentasi Python
-![Python program](PY/ss.png)
-![Python program](PY/ss2.png)
+![Python program](python/ss_python.png)
 
 ### Dokumentasi PHP
-![PHP program](PHP/ss/1.png)
-![PHP program](PHP/ss/2.png)
-![PHP program](PHP/ss/3.png)
+![PHP program](php/ss/ss_php1.png)
+![PHP program](php/ss/ss_php2.png)
