@@ -30,3 +30,19 @@ Program saya mempunyai 1 Primary jey, Yaitu ID, Oleh karena itu
 * ketika ingin menghapus data, menggunakan ID, jika tidak ada ID yang terdaftar maka data tidak bisa dihapus
 
 ## Dokumentasi
+
+### Dokumentasi CPP
+![CPP program](Screenshot 2024-02-08 005847.png)
+![CPP program](Screenshot 2024-02-08 005859.png)
+
+### Dokumentasi Java
+![Java program](Java/ss.png)
+
+### Dokumentasi Python
+![Python program](PY/ss.png)
+![Python program](PY/ss2.png)
+
+### Dokumentasi PHP
+![PHP program](PHP/ss/1.png)
+![PHP program](PHP/ss/2.png)
+![PHP program](PHP/ss/3.png)
