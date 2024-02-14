@@ -18,7 +18,7 @@ foreach ($Data as $a) {
     echo "<br>";
 }
 //edit data 
-$Data[0] = new Data("222", "biyoo", "rusuh", "dokja", "tes2.jpg");
+$Data[0] = new Data("111", "biyoo", "rusuh", "dokja", "tes1.jpg");
 echo "Data sesudah dirubah!";
 echo "<br>";
 foreach ($Data as $a) {
