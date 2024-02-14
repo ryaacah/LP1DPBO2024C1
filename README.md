@@ -32,8 +32,8 @@ Program saya mempunyai 1 Primary jey, Yaitu ID, Oleh karena itu
 ## Dokumentasi
 
 ### Dokumentasi CPP
-![CPP program](Screenshot 2024-02-08 005847.png)
-![CPP program](Screenshot 2024-02-08 005859.png)
+![CPP program](Screenshot2024-02-08005847.png)
+![CPP program](Screenshot2024-02-08005859.png)
 
 ### Dokumentasi Java
 ![Java program](Java/ss.png)
