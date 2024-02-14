@@ -6,6 +6,8 @@ require('Data.php');
 $Data[0] = new Data("111", "raya", "pendidikan", "cihuyy", "tes1.jpg");
 $Data[1] = new Data("222", "cahya", "ekonomi", "apatuh", "tes2.jpg");
 
+echo "ID |  Nama  |  Bidang |  Partai |  Profil |" . "<br/>";
+
 foreach ($Data as $a) {
     echo $a->get_id(). " | " ;
     echo $a->get_nama() . " | ";
